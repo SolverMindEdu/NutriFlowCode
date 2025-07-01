@@ -3,11 +3,11 @@
 **Hackathon:** Code4Hope 2025  
 
 ## 🌟 The Problem  
-Personalized nutrition plans exist — but most people don’t follow them.  
+Personalized nutrition plans exist but most people don’t follow them.  
 Why? Because they rely on users to **manually log meals**, **track groceries**, and **follow strict routines**, which often break down in busy, real life.  
 
 ## 🧠 Our Solution  
-**NutriFlow AI** is a **smart, real-time dietary assistant** that combines **hardware**, **computer vision**, and **local AI** to turn your fridge into a personalized health tool — no logging or tracking required.
+**NutriFlow AI** is a **smart, real-time dietary assistant** that combines **hardware**, **computer vision**, and **local AI** to turn your fridge into a personalized health tool no logging or tracking required.
 
 ### 🧊 Hardware  
 - A **USB or Pi camera** installed inside the fridge  
